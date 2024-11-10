@@ -1,6 +1,6 @@
 <a align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</a>
 Hi My name is Nattapol Jompapin
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=000000&style=flat](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" alt="krtnp" /> </p>
+<h3 align="center">Hi My name is Nattapol Jompapin</h3>
 <hr>
 <h3 align="center">Welcome to my github.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=000000&style=flat" alt="krtnp" /> </p>
