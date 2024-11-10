@@ -1,12 +1,11 @@
 
 <h3 align="center">Welcome to my github.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nattapoljompapin&label=Profile%20views&color=000000&style=flat" alt="NattapolJompapin" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;
+
 <hr>
 <h4 align="center">Front-End Web Developer and Designer</h4>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-Hello, my name is Nattapol Jompapin
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hello, my name is Nattapol Jompapin
 
 <p>Hello! I'm a Front-End Developer with a passion for creating visually stunning and highly functional user experiences. Skilled in the latest web technologies like HTML, CSS, and JavaScript, as well as frameworks like React and Vue.js, I focus on crafting standout, responsive websites. With a keen eye for detail and a deep understanding of user experience design, I aim to make each project unique and engaging. I'm ready to tackle any challenge to bring your ideas to life!</p>
 
