@@ -1,5 +1,4 @@
 
-<hr>
 <h3 align="center">Welcome to my github.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nattapoljompapin&label=Profile%20views&color=000000&style=flat" alt="NattapolJompapin" /> </p>
 <hr>
