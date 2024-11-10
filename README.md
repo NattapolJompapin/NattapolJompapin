@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hello, my name is NATTAPOL JOMPAPIN
 
-<p>Hello! I'm a Front-End Developer with a passion for creating visually stunning and highly functional user experiences. Skilled in the latest web technologies like HTML, CSS, and JavaScript, as well as frameworks like React and Vue.js, I focus on crafting standout, responsive websites. With a keen eye for detail and a deep understanding of user experience design, I aim to make each project unique and engaging. I'm ready to tackle any challenge to bring your ideas to life!</p>
+<p>I'm a Front-End Developer with a passion for creating visually stunning and highly functional user experiences. Skilled in the latest web technologies like HTML, CSS, and JavaScript, as well as frameworks like React and Vue.js, I focus on crafting standout, responsive websites. With a keen eye for detail and a deep understanding of user experience design, I aim to make each project unique and engaging. I'm ready to tackle any challenge to bring your ideas to life!</p>
 
 *   🌍  I'm based in Phayao, Thailand
 *   🖥️  See my portfolio at [My Port](http://github.com/NattapolJompapin)
