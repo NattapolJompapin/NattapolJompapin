@@ -6,11 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <hr>
 <h3 align="center">Welcome to my github.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=000000&style=flat" alt="krtnp" /> </p>
-
-
+<hr>
 Front-End Web Developer and Designer
 ------------------------------------
-<hr>
+
 <br>
 
 Hello! I'm a Front-End Developer with a passion for creating visually stunning and highly functional user experiences. Skilled in the latest web technologies like HTML, CSS, and JavaScript, as well as frameworks like React and Vue.js, I focus on crafting standout, responsive websites. With a keen eye for detail and a deep understanding of user experience design, I aim to make each project unique and engaging. I'm ready to tackle any challenge to bring your ideas to life!
