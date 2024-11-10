@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer and Designer
 ------------------------------------
 <hr>
-<br>
 <h3 align="center">Welcome to my github.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtnp&label=Profile%20views&color=000000&style=flat" alt="krtnp" /> </p>
 <hr>
