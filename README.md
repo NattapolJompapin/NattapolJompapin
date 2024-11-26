@@ -53,7 +53,7 @@
                     </picture>
                     </a>
                     <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
-                    <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+                    <a href="https://www.patreon.com/c/NTP66024862?fromConcierge=true" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
                     </p>
 
 
