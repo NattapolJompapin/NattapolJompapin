@@ -57,8 +57,14 @@
                     </p>
 
 
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/NattapolJompapin">
-<img src="https://github-readme-stats.vercel.app/api?username=NattapolJompapin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
+
+
+###
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NattapolJompapin&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NattapolJompapin&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 <a href="https://github.com/NattapolJompapin" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattapolJompapin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
