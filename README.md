@@ -9,9 +9,6 @@
 
 <p>I'm a Front-End Developer with a passion for creating visually stunning and highly functional user experiences. Skilled in the latest web technologies like HTML, CSS, and JavaScript, as well as frameworks like React and Vue.js, I focus on crafting standout, responsive websites. With a keen eye for detail and a deep understanding of user experience design, I aim to make each project unique and engaging. I'm ready to tackle any challenge to bring your ideas to life!</p>
 
-
-![My Picture](./coding-to-the-m_66186374.png)
-
 *   🌍  I'm based in Phayao, Thailand
 *   🖥️  See my portfolio at [My Port](https://nattapoljompapin.github.io/)
 *   ✉️  You can contact me at [66024862@up.ac.th](mailto:66024862@up.ac.th)
