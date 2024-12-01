@@ -4,9 +4,9 @@
 
 <hr>
 
-
-
 <img src="https://github.com/user-attachments/assets/237ba412-3869-4c8b-9913-c23c821f75f3" width="100%" />
+
+<hr>
 
 <h4 align="center">Front-End Web Developer and Designer</h4>
 
